@@ -196,6 +196,7 @@ DEPENDENCIES
   rexml
   rubocop (~> 1.21)
   selenium-webdriver
+  sprockets-rails
   sqlite3
   stimulus-rails
   turbo-rails

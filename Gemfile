@@ -8,6 +8,7 @@ gemspec
 
 gem "rails", "~> 6.1.0"
 gem "rake", "~> 13.0"
+gem "sprockets-rails"
 gem "sqlite3"
 
 gem "minitest", "~> 5.0"

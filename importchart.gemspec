@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Trying out importmaps."
   spec.description = "Trying out importmaps."
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 2.7.0"
 
   spec.metadata["source_code_uri"] = "https://github.com/Karimit/importchart"
   spec.metadata["changelog_uri"] = "https://github.com/Karimit/importchart/CHANGELOG.md"
